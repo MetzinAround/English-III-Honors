@@ -92,7 +92,7 @@ This syllabus is subject to change. Any changes will be communicated in class an
 
 ---
 
-**Signature:** 
-**Date:** 
-**Parent Signature:**
-**Parent Email:**
+**Signature:** </br>
+**Date:** </br>
+**Parent Signature:** </br>
+**Parent Email:** </br>
